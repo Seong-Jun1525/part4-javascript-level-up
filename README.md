@@ -836,7 +836,7 @@ fetchMovies()
 ```
 - 출력결과
 
-![ex_screenshot](./img/md-img.png)
+![md-img](./img/md-img.PNG)
 
 ```js
 const str = `
