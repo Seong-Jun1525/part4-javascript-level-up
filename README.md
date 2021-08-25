@@ -835,7 +835,7 @@ function fetchMovies() {
 fetchMovies()
 ```
 - 출력결과  
-<img src="md-img.png">
+<img src="./img/md-img.png">
 
 ```js
 const str = `
